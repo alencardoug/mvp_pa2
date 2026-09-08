@@ -86,6 +86,10 @@ Um LLM poderoso não consegue compensar de maneira confiável documentos mal est
 
 Por isso, o projeto trata os testes de retrieval como uma atividade central de engenharia, em vez de avaliar apenas a resposta final gerada pelo modelo.
 
+A captura de tela abaixo foi feita manualmente por mim durante meu estudo no RAGFlow, observando o impacto dos ajustes no peso da similaridade vetorial e no limiar de similaridade sobre o ranking e a seleção dos resultados recuperados.
+
+![Teste de recuperação no RAGFlow com ajustes de peso da similaridade vetorial e limiar de similaridade](screenshots_ragflow/retrieval_testing.jpg)
+
 ## Status
 
 🚧 **Projeto de aprendizado e portfólio — em desenvolvimento ativo**
